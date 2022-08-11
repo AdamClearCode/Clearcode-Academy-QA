@@ -5,7 +5,7 @@
 * Setup
 
 ## Wprowadzenie
-Głównym celem dokumentacji technicznej dlda stażystów jest nauka jej pisania. 
+Głównym celem dokumentacji technicznej dla stażystów jest nauka jej pisania. 
 	
 ## Technologie
 Aplikacja wymaga do uruchomienia:
